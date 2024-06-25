@@ -7,6 +7,7 @@ This repository contains the code and assets for my personal website, showcasing
 ## Project Structure
 
 The project structure is organized as follows:
+```
 .
 ├── assets
 │ ├── css
@@ -18,6 +19,7 @@ The project structure is organized as follows:
 │ └── js
 │ └── script.js
 ├── index.html
+```
 
 - **`assets/`**: Contains all the website's assets.
 - **`css/`**: Contains the stylesheet for the website (`style.css`).
