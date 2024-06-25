@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to the repository for my personal website!
+Welcome to the repository for my personal website! You can access my personal website [here](https://www.your-website-url.com).
 
 This repository contains the code and assets for my personal website, showcasing my portfolio, projects, and more.
 
