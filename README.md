@@ -1,3 +1,4 @@
+![GitHub Cards Preview](https://github.com/omargeo/pw/assests/images/cover.png)
 # Personal Website
 
 Welcome to the repository for my personal website! You can access my personal website [here](https://www.your-website-url.com).
