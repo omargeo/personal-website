@@ -315,7 +315,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 750px; }
+.sidebar.active { max-height: 1050px; }
 
 .sidebar-info {
   position: relative;
