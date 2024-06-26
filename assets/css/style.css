@@ -310,12 +310,12 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 122px;
+  max-height: 140px;
   overflow: hidden;
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 415px; }
+.sidebar.active { max-height: 450px; }
 
 .sidebar-info {
   position: relative;
